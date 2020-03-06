@@ -11,6 +11,22 @@ h3{
     text-align: justify;
 
 }
-body{
-    background-color: chocolate;
+.bodyprincipa{
+    background-color: rgb(119, 59, 16);
+}
+.clase1{ 
+    background-color: chartreuse;
+
+
+}
+.clase2{
+    background-color: cyan
+}
+.imagenfondo{
+    background-image: url(img/primeraimagen.jpg);
+    height:800px ;
+    background-attachment: fixed;
+}
+.textocolor {
+    color: cornflowerblue;
 }
